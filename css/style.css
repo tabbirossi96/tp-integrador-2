@@ -19,3 +19,19 @@
     width: 50%;
     height: 70vh;
     }
+.espacio {
+  margin-left: 5px !important;
+  margin-right: 5px !important;
+}
+.boton1 {
+  margin-right: 20x !important;
+}
+.boton2 {
+  margin-left: 20px !important;
+}
+.total {
+  background-color: #cce5ff !important;
+}
+.numero{
+  border: none !important;
+ }
